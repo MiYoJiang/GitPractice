@@ -3,4 +3,5 @@ for i in range(5):
 
 x = 10
 u = 18
-print(x+u)
+y = 22
+print(x+u+y)
